@@ -1,21 +1,17 @@
-#  Car price prediction
-Yandex practicum sprint 19
+#  House price prediction
+Yandex practicum sprint 16
 
 ## Task
-- compare classic models Regression & RandomForest with Gradient Boosting by:
-  - quality of prediction
-  - training time
-  - prediction time
+To predict house prices using spark
 
 ## Tools 
 - numpy
 - pandas 
-- sklearn
-- matplotlib
-- lightgbm 
+- pyspark
+- matplotlib 
 
 ## Files
-- car_price.ipynb  - main project file
+- house_price.ipynb  - main project file
 
 ## Result
 - Regression model with metric R2=0.64 built
